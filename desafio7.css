@@ -1,0 +1,19 @@
+body{
+    background-color: white;
+}
+    
+
+table{
+    margin: auto;
+    text-align: center;
+    border-collapse: collapse;
+    border: 3px black;
+    font-size: 25px;
+    width: 600px;
+    height: 400px;
+}
+
+#header-box{
+    background-color: green;
+    color: white;
+}
